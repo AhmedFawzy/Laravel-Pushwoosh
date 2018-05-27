@@ -11,10 +11,10 @@
     ],
     "require": {
         "php": "^5.6.4 || ^7.0",
-        "illuminate/contracts": "5.1.* || 5.2.* || 5.3.*",
-        "illuminate/support": "5.1.* || 5.2.* || 5.3.*",
+        "illuminate/contracts": "5.1.* || 5.2.* || 5.3.* || 5.4.* || 5.5.* || 5.6.*",
+        "illuminate/support": "5.1.* || 5.2.* || 5.3.* || 5.4.* || 5.5.* || 5.6.*",
         "graham-campbell/manager": "^2.4",
-        "gomoob/php-pushwoosh": "^1.1"
+        "gomoob/php-pushwoosh": "^1.9"
     },
     "require-dev": {
         "graham-campbell/testbench": "^3.2",
