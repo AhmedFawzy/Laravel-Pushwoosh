@@ -11,14 +11,14 @@
     ],
     "require": {
         "php": "^5.6.4 || ^7.0",
-        "illuminate/contracts": "5.1.* || 5.2.* || 5.3.* || 5.4.* || 5.5.* || 5.6.*",
-        "illuminate/support": "5.1.* || 5.2.* || 5.3.* || 5.4.* || 5.5.* || 5.6.*",
-        "graham-campbell/manager": "^4.0",
+        "illuminate/contracts": "5.1.* || 5.2.* || 5.3.* || 5.4.* || 5.5.* || 5.6.* || 5.7.*",
+        "illuminate/support": "5.1.* || 5.2.* || 5.3.* || 5.4.* || 5.5.* || 5.6.* || 5.7.*",
+        "graham-campbell/manager": "^4.1",
         "gomoob/php-pushwoosh": "^1.9"
     },
     "require-dev": {
-        "graham-campbell/testbench": "^5.0",
-        "mockery/mockery": "^1.1",
+        "graham-campbell/testbench": "^5.1",
+        "mockery/mockery": "^1.2",
         "phpunit/phpunit": "^7.1"
     },
     "autoload": {
